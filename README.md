@@ -2,7 +2,7 @@
 2.Any PRs outside of hacktoberfest will still be considered, but may not count towards your hacktoberfest contributions.
 
 
-### Instructions:
+*** Instructions:
 
 1. Fork the repository
 
